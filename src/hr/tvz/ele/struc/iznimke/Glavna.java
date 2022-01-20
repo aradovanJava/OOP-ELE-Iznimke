@@ -41,7 +41,7 @@ public class Glavna {
             }
         }while(ponoviUnos);
 
-        System.out.println("Čestitamo, pogodili ste broj!");
+        System.out.println("Čestitamo, pogodili ste broj " + slucajniBroj);
 
     }
 
